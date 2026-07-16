@@ -56,7 +56,6 @@ Road accidents are a major public safety concern worldwide. Accurate severity pr
 
 ### Development Platform
 
-- Jupyter Notebook
 - Google Colab
 
 ---
